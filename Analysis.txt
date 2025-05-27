@@ -1,0 +1,14 @@
+# Phishing Email Analysis Report
+
+## Sample Email Analyzed
+Email claiming to be from Donald Trump (White House) requesting a funding application.
+
+## Phishing Indicators Found
+1. *Spoofed Sender Address:* The From address (therealdonaldtrump@whitehouse.gov) does not match the Reply-To (smartprof@unomaha.edu) or Return-Path (smartprof@loki.ist.unomaha.edu), indicating email spoofing.
+2. *Suspicious Header:* The header contains X-PHP-Originating-Script: 13823:spoof.php, a clear sign of a phishing script not present in legitimate emails.
+3. *Mismatched URL:* The link in the email points to https://robinagandhi.github.io/phishing-demo/encoding.html, which doesn’t match the sender’s domain (whitehouse.gov).
+4. *Urgent Language:* The email uses a call to action (“put in your funding request here”) to create urgency, a common social engineering tactic.
+5. *Grammatical Error:* The use of “bigly” and an informal tone is uncharacteristic of official White House communication.
+
+## Conclusion
+The email exhibits multiple phishing characteristics, including spoofing, suspicious headers, mismatched URLs, urgent language, and grammatical errors. It is highly likely a phishing attempt designed to trick the recipient into clicking a malicious link.
