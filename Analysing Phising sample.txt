@@ -1,0 +1,18 @@
+From: Donald Trump <therealdonaldtrump@whitehouse.gov>
+Reply-To: Robin Gandhi <smartprof@unomaha.edu>
+Subject: Grant Application Request
+Date: Wed, 12 Jul 2017 17:49:14 -0500
+Message-ID: <20170712224914.958031E5EE0@loki.ist.unomaha.edu>
+Return-Path: smartprof@loki.ist.unomaha.edu
+X-PHP-Originating-Script: 13823:spoof.php
+Content-Type: text/html; charset="ISO-8859-1"
+<html>
+<body>
+Dear Dr. Gandhi,<br>
+You are doing very very good work with the Gencyber Camp.<br>
+Just let me know what you need to make it bigly successful next year!<br>
+Please put in your funding request here: <a href="https://robinagandhi.github.io/phishing-demo/encoding.html">Grant Application</a><br>
+~Yours Truly<br>
+<font color="#ff2600">Donald</font>
+</body>
+</html>
