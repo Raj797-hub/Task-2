@@ -1,7 +1,7 @@
 # Cyber Security Internship Task 2: Phishing Email Analysis
 
 ## Overview
-This repository contains the analysis of a phishing email sample as part of Task 2 of the Eleyate Cyber Security Internship.
+This repository contains the analysis of a phishing email sample as part of Task 2 of the Elevate Cyber Security Internship.
 
 ## Task Objective
 Analyze a phishing email sample to identify phishing characteristics using an email client and a free online header analyzer, then submit a report listing phishing indicators found.
